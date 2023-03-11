@@ -10,5 +10,4 @@
 ##### 可下载的链接 如：https://github.com/chromiumer/ops-files/releases/download/v1.0/epel-release-7-11.noarch.rpm
 
 #### Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=chromiumer/respeed&type=Timeline)](https://star-history.com/#chromiumer/respeed&Timeline)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=chromiumer/respeed&type=Date)](https://star-history.com/#chromiumer/respeed&Date)
