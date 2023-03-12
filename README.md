@@ -1,13 +1,13 @@
-## Respeed 文件加速下载
-### 此仓库为项目大本营，以防站点因不可抗拒力量关闭，欢迎一键Star，保持长连接。
+### Respeed 文件下载加速
+#### 此仓库为项目大本营，以防站点因不可抗拒力量关闭（你懂的），欢迎一键Star，保持长连接 🙏。
 
-
-#### 访问入口 https://respeed.chromiumer.com
-##### 主要解决国内下载海外资源速度慢的问题。
-##### 如果是国内资源，可以直接下载，不用通过此中转，通过中转不但不会快可能还会更慢。
-##### 实现原理类似在服务器端执行 wget 获取资源文件，开放访问资源。
-##### 下载的资源链接要以 http/https 开头，URL为 wget 可下载的资源链接，有鉴权或跳转的链接下载失效。
-##### 可下载的链接 如：https://github.com/chromiumer/ops-files/releases/download/v1.0/epel-release-7-11.noarch.rpm
-
+##### 访问入口 https://respeed.chromiumer.com
+##### 功能：解决国内下载海外资源速度慢的问题。
+##### 说明：
+      1.此平台主要用于文件下载加速（国内资源下载可能会更慢）。
+      2.下载所有文件均来自用户自行输入源链接，且不会保留用户下载任何文件。
+      3.对下载的文件不做任何修改，并且下载2小时后服务器会自动将其删除，请及时下载到本地。
+      4.由于服务器磁盘容量有限，请不要下载过大(单个文件大于1GB)且与工作、学习无关的资料。
+      5.目前平台所有运营成本均为自付，欢迎捐助，希望平台能更长时间为大家服务，谢谢。
 #### Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=chromiumer/respeed&type=Date)](https://star-history.com/#chromiumer/respeed&Date)
