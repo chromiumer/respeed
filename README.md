@@ -9,6 +9,3 @@
       3.对下载的文件不做任何修改，并且下载1小时后服务器会自动将其删除，请及时下载到本地。
       4.由于服务器磁盘容量有限，请不要下载过大(单个文件大于500MB)且与工作、学习无关的资料。
       5.目前平台所有运营成本均为自付，欢迎捐助，希望平台能更长时间为大家服务，谢谢。
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/chromiumer/respeed.svg)](https://starchart.cc/chromiumer/respeed)
